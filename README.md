@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **[CodeVeb](https://codeveb.ir)**
 
-- 🌐 This is my personal website: **[ehsanbahrami.dev](https://ehsanbahrami.dev/en)**
+- 🌐 This is my personal website: **[ehsanbahrami.dev](https://ehsanbahrami.dev/en/)**
 
-- 👨‍💻 All of my projects are available at **[my portfolio](https://ehsanbahrami.dev/en/projects/)**
+- 👨‍💻 All of my projects are available at **[my portfolio](https://ehsanbahrami.dev/en/portfolio/)**
 
-- 📝 I regularly write articles on **[my blog](https://ehsanbahrami.dev/en/blog/)**
+- 📝 I regularly write articles on **[my blog](https://ehsanbahrami.dev/en/blog-en/)**
 
 - 💬 Ask me about **Python, FastAPI, Django, Next.js, React.js, PHP, Laravel, MySQL, PostgreSQL, Tailwind CSS, etc.**
 
